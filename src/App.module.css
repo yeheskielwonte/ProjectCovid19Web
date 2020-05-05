@@ -1,0 +1,8 @@
+.body {
+  background-color: rgb(200, 200, 200);
+}
+
+.container {
+  align-items: center;
+  justify-content: center;
+}
